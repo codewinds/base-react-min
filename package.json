@@ -53,7 +53,7 @@
   "dependencies": {
     "axios": "^0.5.4",
     "core-js": "^0.9.9",
-    "react": "^0.13.3"
+    "react": "^0.14.0"
   },
   "keywords": []
 }
